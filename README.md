@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi I'm Nabeel
 
-<!--
-**nabeel-shakeel/nabeel-shakeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Software Engineer at Techwards having professional experience in Cloud Security, Networks and Web Development industry. Skilled in a variety of languages, tools and platforms. An enthusiastic and supportive team player dedicated to streamlining processes. Able to pick new concepts quickly and self-motivated to learn.
 
-Here are some ideas to get you started:
+### Projects
+- 🔭 I’m currently working on two projects:
+  - Mobile App Development using React Native
+  - Backend Solution using Elastic Stack and Go Language
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Get in touch
+- :mailbox:  Email - nabeelshakeel130@gmail.com
+- :penguin:  Linkedin - [nabeel-shakeel](https://www.linkedin.com/in/nabeel-shakeel-100941118/)
+
