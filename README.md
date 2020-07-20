@@ -12,3 +12,5 @@ I'm a Senior Software Engineer at Techwards having professional experience in Cl
 - :mailbox:  Email - nabeelshakeel130@gmail.com
 - :penguin:  Linkedin - [nabeel-shakeel](https://www.linkedin.com/in/nabeel-shakeel-100941118/)
 
+![Nabeel Shakeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabeel-shakeel&show_icons=true&hide_border=true)
+
