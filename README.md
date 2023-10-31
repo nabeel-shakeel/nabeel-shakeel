@@ -9,10 +9,11 @@
 
 </div>
 
-An experienced _Full Stack Software Engineer_ with more than 5+ years of experience in the computer software industry. Skilled in a variety of languages, tools, and platforms. Occasional Open-Source Contributor having contributions in Elastic and GitHub projects. Love to learn new technologies and speak at different meetups.
+An experienced _Full Stack Software Engineer_ with more than 5+ years of experience in the computer software industry Skilled in a variety of languages, tools, and platforms. Occasional Open-Source Contributor having contributions in Elastic and GitHub projects. Love to learn new technologies and speak at different meetups.
 
 <!-- ABOUT ME -->
 ## About Me
+
 - 🌏 I'm currently based in Karachi, Pakistan
 - 🔭 I’m currently working as a Senior Software Engineer at <a href="https://techwards.co" target="blank">Techwards</a>
 - 🏗️ Working on mobile and web development projects
@@ -37,12 +38,14 @@ An experienced _Full Stack Software Engineer_ with more than 5+ years of experie
 
 <!-- PLATFORMS -->
 ## Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabeel-shakeel-130/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nabeel_shakeel8)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabeelshakeel130@gmail.com)
 
 <!-- GITHUB STATS -->
 ## Stats
+
 <a href="https://github.com/nabeel-shakeel">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nabeel-shakeel&show_icons=true&theme=vue-dark" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeel-shakeel&theme=vue-dark&layout=compact" />
