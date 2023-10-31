@@ -19,11 +19,12 @@ An experienced _Full Stack Software Engineer_ with more than 5+ years of experie
 - 🏗️ Working on mobile and web development projects
 - 🌱 Currently learning AstroJs and Svelte
 - 💬 Ask me about **React & ReactNative**
-- 📫 How to reach me **nabeelshakeel130@gmail.com**
+- 📫 How to reach me **<nabeelshakeel130@gmail.com>**
 
 <!-- EXPERTISE -->
 ## Tech Stack
-<div> 
+
+<div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -33,7 +34,7 @@ An experienced _Full Stack Software Engineer_ with more than 5+ years of experie
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
 </div>
 
 <!-- PLATFORMS -->
