@@ -51,3 +51,5 @@ An experienced _Full Stack Software Engineer_ with more than 5+ years of experie
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nabeel-shakeel&show_icons=true&theme=vue-dark" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeel-shakeel&theme=vue-dark&layout=compact" />
 </a>
+
+This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
