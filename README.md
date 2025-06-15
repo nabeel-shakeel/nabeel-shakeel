@@ -9,7 +9,7 @@
 
 </div>
 
-An experienced _Full Stack Software Engineer_ with more than 7+ years of experience in the computer software industry. Skilled in a variety of languages, tools, and platforms. Occasional Open-Source Contributor having contributions in Elastic and GitHub projects. Love to learn new technologies and speak at different meetups.
+An experienced _Full Stack Software Engineer_ with 7+ years of experience in the computer software industry. Skilled in a variety of languages, tools, and platforms. Occasional Open-Source Contributor having contributions in Elastic and GitHub projects. Love to learn new technologies and speak at different meetups.
 
 <!-- ABOUT ME -->
 ## About Me
