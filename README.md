@@ -1,6 +1,6 @@
 <!-- INTRODUCTION -->
 <h1 align="center">Hi there, I'm Nabeel 👋</h1>
-<h3 align="center">Senior Software Engineer | React | React Native | TypeScript | Go Lang</h3>
+<h3 align="center">Senior Software Engineer | JavaScript | TypeScript | React | Next | Python | GenAI | AWS</h3>
 
 <!-- PROFILE BADGES -->
 <div align="center">
@@ -9,16 +9,16 @@
 
 </div>
 
-An experienced _Full Stack Software Engineer_ with more than 5+ years of experience in the computer software industry Skilled in a variety of languages, tools, and platforms. Occasional Open-Source Contributor having contributions in Elastic and GitHub projects. Love to learn new technologies and speak at different meetups.
+An experienced _Full Stack Software Engineer_ with more than 7+ years of experience in the computer software industry. Skilled in a variety of languages, tools, and platforms. Occasional Open-Source Contributor having contributions in Elastic and GitHub projects. Love to learn new technologies and speak at different meetups.
 
 <!-- ABOUT ME -->
 ## About Me
 
 - 🌏 I'm currently based in Karachi, Pakistan
-- 🔭 I’m currently working as a Senior Software Engineer at <a href="https://techwards.co" target="blank">Techwards</a>
-- 🏗️ Working on mobile and web development projects
-- 🌱 Currently learning AstroJs and Svelte
-- 💬 Ask me about **React & ReactNative**
+- 🔭 I’m currently working as a Senior Software Engineer at <a href="https://emumba.com" target="blank">Emumba</a>
+- 🏗️ Working on Enteprise SaaS product in the domain of Network Security
+- 🌱 Mastering the art of GenAI applications
+- 💬 Ask me about **JavaScript**, **React** & **GenAI**
 - 📫 How to reach me **<nabeelshakeel130@gmail.com>**
 
 <!-- EXPERTISE -->
@@ -26,15 +26,15 @@ An experienced _Full Stack Software Engineer_ with more than 5+ years of experie
 
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </div>
 
 <!-- PLATFORMS -->
